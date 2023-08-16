@@ -11,6 +11,7 @@ public:
                 l1=l1->next;
             }else{
                 l2->next=head;
+                
                 l2=l2->next;
 
             }
